@@ -1,0 +1,12 @@
+
+Select whether this problem is a regression or a classification problem.
+
+
+Regression
+
+Classification
+
+
+Ans : Regression
+
+

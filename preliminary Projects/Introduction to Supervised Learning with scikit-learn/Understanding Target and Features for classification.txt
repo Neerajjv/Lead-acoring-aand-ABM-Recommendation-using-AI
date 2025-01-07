@@ -1,0 +1,85 @@
+Q . What is the role of feature variables in a classification problem?
+
+
+To provide additional context to the target variable
+
+To assess the performance of the model
+
+To determine the accuracy of the model
+
+To classify the target variable into different categories
+
+
+Ans : To classify the target variable into different categories
+
+
+Q . Which of the following best defines the target variable in a classification problem?
+
+
+The variable used for feature engineering
+
+The variable used for making predictions
+
+The variable used for normalization
+
+The variable being predicted
+
+Ans : The variable being predicted
+
+
+Q . In a binary classification problem to predict whether a customer will churn or not, what would be the target variable?
+
+
+Customer ID
+
+Customer income
+
+Customer age
+
+Likelihood of churn
+
+Ans : Likelihood of churn
+
+
+
+Q . Identify the target variable for this problem
+
+
+BMI
+
+currentSmoker
+
+TenYearCHD
+
+diabetes
+
+Ans : TenYearCHD
+
+
+Q . Based on previous tasks identify if this problem is a binary of multiclass classification problem
+
+
+Binary
+
+Multiclas
+
+Ans : Binary
+
+
+Q . You are given a dataset containing information about customers of an e-commerce website. The goal is to predict whether a customer will make a purchase or not based on their characteristics. Identify the target variable and the features variables in this scenario.
+
+
+Target variable: Purchase id; Features variables: Customer age, Time spent on the website, Number of products viewed.
+
+Target variable: Customer will make a purchase; Features variables: Customer age, Purchase amount, Time spent on the website, Number of products viewed.
+
+Target variable: Customer age; Features variables: Purchase amount, Time spent on the website, Number of products viewed.
+
+Target variable: Purchase amount; Features variables: Customer age, Time spent on the website, Number of products viewed.
+
+
+Ans : Target variable: Customer will make a purchase; Features variables: Customer age, Purchase amount, Time spent on the website, Number of products viewed.
+
+
+
+

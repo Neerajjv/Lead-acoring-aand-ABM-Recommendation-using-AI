@@ -1,0 +1,46 @@
+
+Which of the following is NOT a machine learning model used in the exercise?
+
+
+Support Vector Machine (SVM)
+
+Random Forest
+
+Linear Regression
+
+Neural Network
+
+Ans : Linear Regression
+
+
+How can changing hyperparameter values impact a model's performance?
+
+
+It can only improve the model's performance.
+
+It has no effect on the model's performance.
+
+It only affects the model's visualization.
+
+It can lead to both improvements and deteriorations in performance.
+
+Ans : It can lead to both improvements and deteriorations in performance.
+
+
+True or False: The accuracy of the SVM with linear kernel model decreases with low values of C.
+
+
+False
+
+True
+
+Ans : True
+
+True or False: The accuracy of the Random Forest model decreases with low values of max_depth (with max_depth=2 and 5).
+
+
+False
+
+True
+
+Ans : False
